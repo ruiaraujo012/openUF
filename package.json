@@ -1,6 +1,6 @@
 {
   "name": "openuf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "openUF is a repository with useful functions for nodejs projects. This is a repository for a npm package.",
   "main": "index.js",
   "scripts": {
