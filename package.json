@@ -1,0 +1,25 @@
+{
+  "name": "openuf",
+  "version": "1.0.0",
+  "description": "openUF is a repository with useful functions for nodejs projects. This is a repository for a npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruiaraujo012/openUF.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "js",
+    "api"
+  ],
+  "author": "Rui Araújo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruiaraujo012/openUF/issues"
+  },
+  "homepage": "https://github.com/ruiaraujo012/openUF#readme"
+}
