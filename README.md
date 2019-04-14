@@ -1,7 +1,7 @@
 # openUF
 ![npm bundle size](https://img.shields.io/bundlephobia/min/openuf.svg)
 ![npm](https://img.shields.io/npm/v/openuf.svg?label=version)
-![npm](https://img.shields.io/npm/dt/openuf.svg)
+<!-- ![npm](https://img.shields.io/npm/dt/openuf.svg) -->
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ruiaraujo012/openUF.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ruiaraujo012/openUF.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ruiaraujo012/openUF.svg)
