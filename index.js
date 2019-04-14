@@ -1,1 +1,3 @@
-module.exports = () => console.log('Hello World!')
+module.exports = test = () => {
+    return 'Hello World!'
+}
