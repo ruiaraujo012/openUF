@@ -1,95 +1,64 @@
+
 # openUF
+OpenUF is a repository with useful functions for nodejs projects. This is a repository for a npm package.
+
 ![npm bundle size](https://img.shields.io/bundlephobia/min/openuf.svg)
 ![npm](https://img.shields.io/npm/v/openuf.svg?label=version)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/ruiaraujo012/openUF.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ruiaraujo012/openUF.svg)
 ![GitHub Release Date](https://img.shields.io/github/release-date/ruiaraujo012/openUF.svg)
+![npm](https://img.shields.io/npm/dt/openuf.svg)
 ![GitHub](https://img.shields.io/github/license/ruiaraujo012/openUF.svg)
-<!-- ![npm](https://img.shields.io/npm/dt/openuf.svg) -->
+## Example
 
-OpenUF is a repository for useful functions for nodejs projects. This is a repository for a npm package.
+```javascript
+const ouf = require('openuf')
+console.log(ouf.test())
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+// Output:
+// Hello World!
+```
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+To run this functions you may need some tecnologies like:
+
+| Tecnology | Version |
+|--|--|
+| Node.js | 11.14.0 or higher |
+| npm | 6.9.0 or higher |
+
+## Installation
+This is a [Node.js](https://nodejs.org/en/) module available through the [npm](https://www.npmjs.com).
+
+Installation is done using the [npm install command](https://docs.npmjs.com/downloading-and-installing-packages-locally):
 
 ```
-Give examples
+npm install openuf
 ```
 
-### Installing
+## Usage
 
-A step by step series of examples that tell you how to get a development env running
+:construction: In construction! :construction:
 
-Say what the step will be
+## Documentation
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+:construction: In construction! :construction:
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use  [SemVer](http://semver.org/)  for versioning. For the versions available, see the  [tags on this repository](https://github.com/ruiaraujo012/openuf/tags).
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+-   **Rui Araújo**  -  _Initial work_  -  [ruiaraujo012](https://github.com/ruiaraujo012)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
+See also the list of  [contributors](https://github.com/your/project/contributors)  who participated in this project.
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+![GitHub](https://img.shields.io/github/license/ruiaraujo012/openUF.svg)
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+- Copyright 2019 © Rui Araújo.
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+<!-- Template 1 (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) -->
+<!-- Template 2 (https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46) -->
