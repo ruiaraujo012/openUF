@@ -53,7 +53,7 @@ We use  [SemVer](http://semver.org/)  for versioning. For the versions available
 
 -   **Rui Araújo**  -  _Initial work_  -  [ruiaraujo012](https://github.com/ruiaraujo012)
 
-See also the list of  [contributors](https://github.com/your/project/contributors)  who participated in this project.
+See also the list of  [contributors](https://github.com/ruiaraujo012/openuf/contributors)  who participated in this project.
 ## License
 
 ![GitHub](https://img.shields.io/github/license/ruiaraujo012/openUF.svg)
