@@ -19,7 +19,7 @@ console.log(ouf.test())
 // Hello World!
 ```
 
-### Prerequisites
+## Prerequisites
 
 To run this functions you may need some tecnologies like:
 
